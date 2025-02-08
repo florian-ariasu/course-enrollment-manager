@@ -61,18 +61,25 @@ The system supports the following operations:
 - Type-safe implementation using generics
 
 ### Tips for Running the Project ⚡
-To run this project, you need to have **Gradle** installed on your local machine.  
-> [!NOTE] 
-> If you do not have Gradle installed, you can download it from [Gradle's official website](https://gradle.org/install/).
 
-This project includes a `settings.gradle` file, which is used to configure the Gradle build.  
-> [!NOTE] 
-> Once you have Gradle installed, in order to download the project-specific dependencies and compile the code, navigate to the project directory in your terminal and run the following command:
-  ```bash
-  gradle build
-```
+This project uses **Gradle** for dependency management and build automation.  
 
-> [!TIP]
-> #### Gradle Integration with IntelliJ IDEA 📦
-> 
-> The project includes the `gradle/wrapper` directory, allowing IntelliJ IDEA to automatically recognize it as a Gradle project. No additional plugins are required—just open the project, and access Gradle tasks directly from the sidebar if you wish not to install Gradle.
+> [!NOTE]  
+> You do **not** need to install Gradle manually, as the project includes the **Gradle Wrapper** (`gradlew`). However, if you prefer to install Gradle globally, you can download it from [Gradle's official website](https://gradle.org/install/).  
+
+Although this project does not include a `settings.gradle` file, it is still configured correctly via `build.gradle`.  
+
+> [!NOTE]  
+> To download the project-specific dependencies and compile the code, navigate to the project directory in your terminal and run:  
+> ```bash
+> ./gradlew build  # Use this for the Gradle Wrapper (recommended)
+> ```
+> Or, if you have Gradle installed system-wide:  
+> ```bash
+> gradle build
+> ```  
+
+> [!TIP]  
+> #### Gradle Integration with IntelliJ IDEA 📦  
+> The project includes the **Gradle Wrapper** (`gradle/wrapper` directory), allowing IntelliJ IDEA to recognize it as a Gradle project automatically. No additional plugins are required—just open the project, and you can access Gradle tasks directly from the **Gradle** sidebar.
+
