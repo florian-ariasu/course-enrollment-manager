@@ -59,3 +59,20 @@ The system supports the following operations:
 - Consistent use of Romanian language for method and variable names
 - Robust error handling with custom exceptions
 - Type-safe implementation using generics
+
+### Tips for Running the Project ⚡
+To run this project, you need to have **Gradle** installed on your local machine.  
+> [!NOTE] 
+> If you do not have Gradle installed, you can download it from [Gradle's official website](https://gradle.org/install/).
+
+This project includes a `settings.gradle` file, which is used to configure the Gradle build.  
+> [!NOTE] 
+> Once you have Gradle installed, navigate to the project directory in your terminal and run the following command to install the required dependencies:
+  ```bash
+  gradle build
+```
+
+> [!TIP]
+> #### Gradle Integration with IntelliJ IDEA 📦
+> 
+> The project includes the `gradle/wrapper` directory, allowing IntelliJ IDEA to automatically recognize it as a Gradle project. No additional plugins are required—just open the project, and access Gradle tasks from the sidebar if you wish not to install Gradle
