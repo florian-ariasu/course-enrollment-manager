@@ -1,0 +1,67 @@
+adauga_student - licenta - Aiden
+adauga_student - licenta - Bella
+adauga_student - licenta - Gavin
+adauga_student - master - Henry
+adauga_student - master - Noah
+adauga_student - licenta - Harper
+adauga_student - licenta - Isla
+adauga_student - master - Isabel
+adauga_student - master - Jack
+adauga_student - licenta - Carter
+adauga_student - licenta - Fiona
+adauga_student - master - Karen
+adauga_student - master - Larry
+adauga_student - master - Mia
+adauga_student - licenta - Jayden
+adauga_student - licenta - Kennedy
+adauga_student - licenta - Liam
+adauga_student - master - Grace
+adauga_student - licenta - Daisy
+adauga_student - licenta - Elijah
+citeste_mediile
+posteaza_mediile
+contestatie - Karen - 8.5
+contestatie - Henry - 8.5
+contestatie - Carter - 8.6
+adauga_curs - licenta - Mate1 - 4
+adauga_curs - licenta - Fizica - 3
+adauga_curs - master - ALG - 3
+contestatie - Aiden - 8.7
+contestatie - Elijah - 9.3
+adauga_curs - master - DS - 1
+adauga_curs - licenta - Engleza - 3
+adauga_curs - licenta - Economie - 3
+adauga_curs - master - SE - 2
+posteaza_mediile
+adauga_preferinte - Aiden - Mate1 - Fizica
+adauga_preferinte - Bella - Mate1 - Engleza
+adauga_preferinte - Harper - Engleza - Economie
+adauga_preferinte - Grace - ALG - DS
+adauga_preferinte - Henry - DS - SE
+adauga_preferinte - Carter - Fizica
+adauga_preferinte - Daisy - Mate1 - Economie
+adauga_preferinte - Elijah - Mate1 - Engleza
+adauga_preferinte - Isabel - ALG - SE
+adauga_preferinte - Jack - ALG
+adauga_preferinte - Karen - DS
+adauga_preferinte - Larry - SE
+adauga_preferinte - Isla - Fizica
+adauga_preferinte - Jayden - Mate1 - Fizica - Engleza
+adauga_preferinte - Kennedy - Economie
+adauga_preferinte - Liam - Mate1 - Fizica - Engleza
+adauga_preferinte - Mia - ALG - DS
+adauga_preferinte - Noah - ALG - DS
+adauga_preferinte - Fiona - Fizica - Economie
+adauga_preferinte - Gavin - Mate1 - Engleza
+repartizeaza
+posteaza_curs - Mate1
+posteaza_curs - Fizica
+posteaza_curs - Engleza
+posteaza_curs - Economie
+posteaza_curs - ALG
+posteaza_curs - DS
+posteaza_curs - SE
+posteaza_student - Carter
+posteaza_student - Grace
+posteaza_student - Liam
+posteaza_student - Isla

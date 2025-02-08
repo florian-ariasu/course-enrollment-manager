@@ -1,0 +1,23 @@
+adauga_student - licenta - Alice
+adauga_student - licenta - Bob
+adauga_student - licenta - Carol
+adauga_student - licenta - David
+adauga_student - licenta - Emily
+adauga_student - licenta - Frank
+citeste_mediile
+posteaza_mediile
+adauga_curs - licenta - POO - 2
+adauga_curs - licenta - SO - 2
+adauga_curs - licenta - Mate - 2
+adauga_preferinte - Frank - POO - SO - Mate
+adauga_preferinte - Alice - POO - SO - Mate
+adauga_preferinte - Bob - POO - SO - Mate
+adauga_preferinte - Emily - POO - SO - Mate
+adauga_preferinte - Carol - POO - SO - Mate
+adauga_preferinte - David - POO - SO - Mate
+repartizeaza
+posteaza_curs - POO
+posteaza_curs - SO
+posteaza_student - Alice
+posteaza_student - Bob
+posteaza_student - Frank

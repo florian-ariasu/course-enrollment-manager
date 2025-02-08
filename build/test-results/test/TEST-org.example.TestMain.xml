@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.TestMain" tests="13" skipped="0" failures="0" errors="0" timestamp="2025-02-08T22:04:49" hostname="Florians-MacBook-Air.local" time="0.052">
+  <properties/>
+  <testcase name="coliziuniCicluStudiiContestatii10()" classname="org.example.TestMain" time="0.02"/>
+  <testcase name="coliziuniMedie08()" classname="org.example.TestMain" time="0.002"/>
+  <testcase name="toateFunctionalitatile12()" classname="org.example.TestMain" time="0.004"/>
+  <testcase name="inroleazaSimplu05()" classname="org.example.TestMain" time="0.002"/>
+  <testcase name="posteazaMedii01()" classname="org.example.TestMain" time="0.003"/>
+  <testcase name="posteazaMediiContestatii02()" classname="org.example.TestMain" time="0.001"/>
+  <testcase name="posteazaMediiContestatii03()" classname="org.example.TestMain" time="0.003"/>
+  <testcase name="posteazaMediiContestatii04()" classname="org.example.TestMain" time="0.002"/>
+  <testcase name="inroleazaCicluStudiiContestatii07()" classname="org.example.TestMain" time="0.002"/>
+  <testcase name="inroleazaCicluStudii06()" classname="org.example.TestMain" time="0.001"/>
+  <testcase name="coliziuniCicluStudii09()" classname="org.example.TestMain" time="0.002"/>
+  <testcase name="exceptieSimplu11()" classname="org.example.TestMain" time="0.002"/>
+  <testcase name="bonusTema13()" classname="org.example.TestMain" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

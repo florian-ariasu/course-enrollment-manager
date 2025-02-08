@@ -1,0 +1,6 @@
+Alice - 8.0
+Bob - 9.2
+Carol - 8.5
+David - 8.0
+Emily - 8.0
+Frank - 8.7

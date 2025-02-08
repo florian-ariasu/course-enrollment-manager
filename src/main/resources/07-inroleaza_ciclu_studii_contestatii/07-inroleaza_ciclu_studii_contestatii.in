@@ -1,0 +1,40 @@
+adauga_student - licenta - Aiden
+adauga_student - master - Fiona
+adauga_student - master - Gavin
+adauga_student - licenta - Bella
+adauga_student - licenta - Carter
+adauga_student - master - Isla
+adauga_student - licenta - Daisy
+adauga_student - licenta - Ella
+adauga_student - master - Harper
+adauga_student - master - Jayden
+citeste_mediile
+posteaza_mediile
+contestatie - Aiden - 9.5
+adauga_curs - licenta - Mate1 - 2
+adauga_curs - master - AI - 3
+contestatie - Fiona - 10.0
+adauga_curs - licenta - Mate2 - 2
+adauga_curs - licenta - Mate3 - 2
+adauga_curs - master - Management - 2
+contestatie - Jayden - 5.6
+posteaza_mediile
+adauga_preferinte - Daisy - Mate1 - Mate2 - Mate3
+adauga_preferinte - Bella - Mate1 - Mate2
+adauga_preferinte - Gavin - Management - AI
+adauga_preferinte - Carter - Mate1 - Mate2 - Mate3
+adauga_preferinte - Ella - Mate1 - Mate3
+adauga_preferinte - Jayden - Management - AI
+adauga_preferinte - Fiona - Management
+adauga_preferinte - Harper - AI
+adauga_preferinte - Isla - AI - Management
+adauga_preferinte - Aiden - Mate1 - Mate2
+repartizeaza
+posteaza_curs - Mate1
+posteaza_curs - Mate2
+posteaza_curs - Mate3
+posteaza_curs - AI
+posteaza_curs - Management
+posteaza_student - Aiden
+posteaza_student - Daisy
+posteaza_student - Isla
