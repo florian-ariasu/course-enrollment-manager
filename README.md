@@ -72,12 +72,9 @@ Although this project does not include a `settings.gradle` file, it is still con
 > [!NOTE]  
 > To download the project-specific dependencies and compile the code, navigate to the project directory in your terminal and run:  
 > ```bash
-> ./gradlew build  # Use this for the Gradle Wrapper (recommended)
-> ```
-> Or, if you have Gradle installed system-wide:  
-> ```bash
 > gradle build
-> ```  
+> ```
+> Please ensure that Gradle is installed globally on your system before proceeding.
 
 > [!TIP]  
 > #### Gradle Integration with IntelliJ IDEA 📦  
