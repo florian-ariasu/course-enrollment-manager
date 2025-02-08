@@ -75,4 +75,4 @@ This project includes a `settings.gradle` file, which is used to configure the G
 > [!TIP]
 > #### Gradle Integration with IntelliJ IDEA 📦
 > 
-> The project includes the `gradle/wrapper` directory, allowing IntelliJ IDEA to automatically recognize it as a Gradle project. No additional plugins are required—just open the project, and access Gradle tasks from the sidebar if you wish not to install Gradle
+> The project includes the `gradle/wrapper` directory, allowing IntelliJ IDEA to automatically recognize it as a Gradle project. No additional plugins are required—just open the project, and access Gradle tasks directly from the sidebar if you wish not to install Gradle.
