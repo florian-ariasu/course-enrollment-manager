@@ -67,7 +67,7 @@ This project uses **Gradle** for dependency management and build automation.
 > [!NOTE]  
 > You do **not** need to install Gradle manually, as the project includes the **Gradle Wrapper** (`gradlew`). However, if you prefer to install Gradle globally, you can download it from [Gradle's official website](https://gradle.org/install/).  
 
-Although this project does not include a `settings.gradle` file, it is still configured correctly via `build.gradle`.  
+Although this project **does not** include a `settings.gradle` file, it is still configured correctly via `build.gradle`.  
 
 > [!NOTE]  
 > To download the project-specific dependencies and compile the code, navigate to the project directory in your terminal and run:  
