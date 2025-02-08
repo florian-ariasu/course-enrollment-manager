@@ -67,7 +67,7 @@ To run this project, you need to have **Gradle** installed on your local machine
 
 This project includes a `settings.gradle` file, which is used to configure the Gradle build.  
 > [!NOTE] 
-> Once you have Gradle installed, navigate to the project directory in your terminal and run the following command to install the required dependencies:
+> Once you have Gradle installed, in order to download the project-specific dependencies and compile the code, navigate to the project directory in your terminal and run the following command:
   ```bash
   gradle build
 ```
