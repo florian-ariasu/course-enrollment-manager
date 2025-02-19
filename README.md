@@ -44,7 +44,7 @@ The system supports the following operations:
 - `Exception Handling`: Custom exception for duplicate students
 
 #### File Management 💾
-- Input files are organized in resource folders
+- Input files are organised in resource folders
 - Output is appended to specified output files
 - Each output section is marked with "***" for clear separation
 
