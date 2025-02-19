@@ -9,9 +9,11 @@ For this project, I have implemented the following classes:
 - Curs (generic class with type parameter extending Student)
 - StudentDuplicatExceptie (custom exception)
 
+---
+
 ### Feature Description ⚙️
 
-### Data Structures 🗃️
+#### Data Structures 🗃️
 - ArrayList<> for managing students and courses
 - TreeSet<> for managing enrolled students in courses (automatically sorted by name)
 - Generics for type-safe course management
@@ -60,7 +62,9 @@ The system supports the following operations:
 - Robust error handling with custom exceptions
 - Type-safe implementation using generics
 
-#### Tips for Running the Project ⚡
+---
+
+### Tips for Running the Project ⚡
 
 This project uses **Gradle** for dependency management and build automation.  
 
@@ -79,3 +83,10 @@ Although this project **does not** include a `settings.gradle` file, it is still
 > [!TIP]  
 > #### Gradle Integration with IntelliJ IDEA 📦  
 > The project includes the **Gradle Wrapper** (`gradle/wrapper` directory), allowing IntelliJ IDEA to recognize it as a Gradle project automatically. No additional plugins are required—just open the project and you can access Gradle tasks directly from the sidebar
+
+---
+
+### 📜 Licence
+This project is licensed under the MIT Licence. See the [LICENCE](./LICENSE) file for further details.
+
+
