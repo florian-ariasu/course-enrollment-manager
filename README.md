@@ -66,21 +66,21 @@ The system supports the following operations:
 This project uses **Gradle** for dependency management and build automation.  
 
 > [!NOTE]  
-> You do **not** need to install Gradle manually, as the project includes the **Gradle Wrapper** (`gradlew`). However, if you prefer to install Gradle globally, you can download it from [Gradle's official website](https://gradle.org/install/).  
-
-Although this project **does not** include a `settings.gradle` file, it is still configured correctly via `build.gradle`.  
+> You do **not** need to install Gradle manually, as the project includes the **Gradle Wrapper** (`gradlew`).
+- Although this project **does not** include a `settings.gradle` file, it is still configured correctly via `build.gradle`.  
 
 > [!NOTE]  
 > To download the project-specific dependencies and compile the code, navigate to the project directory in your terminal and run:  
-> ```bash
-> gradle build
-> ```
-> Please ensure that Gradle is installed globally on your system before proceeding.
+ ```bash
+ gradle build
+ ```
+- Please ensure that Gradle is installed globally on your system before proceeding.
 
 > [!TIP]  
-> ###### Gradle Integration with IntelliJ IDEA
+> ##### Gradle Integration with IntelliJ IDEA
 
-- The project includes the **Gradle Wrapper** (`gradle/wrapper` directory), allowing IntelliJ IDEA to recognize it as a Gradle project automatically. No additional plugins are required—just open the project and you can access Gradle tasks directly from the sidebar
+- The project includes the **Gradle Wrapper** (`gradle/wrapper` directory), allowing IntelliJ IDEA to recognize it as a Gradle project automatically.
+- No additional plugins are required - just open the project and you can access Gradle tasks directly from the sidebar.
 
 ### Licence
 
