@@ -76,7 +76,7 @@ This project uses **Gradle** for dependency management and build automation.
 ```
 
 > [!TIP]  
-> ##### Gradle Integration with IntelliJ IDEA
+> Gradle Integration with IntelliJ IDEA
 
 - The project includes the **Gradle Wrapper** (`gradle/wrapper` directory), allowing IntelliJ IDEA to recognize it as a Gradle project automatically.
 - No additional plugins are required - just open the project and you can access Gradle tasks directly from the sidebar.
