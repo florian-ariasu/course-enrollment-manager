@@ -66,8 +66,8 @@ The system supports the following operations:
 This project uses **Gradle** for dependency management and build automation.  
 
 > [!NOTE]  
-> You do **not** need to install Gradle manually, as the project includes the **Gradle Wrapper** (`gradlew`).
-- Although this project **does not** include a `settings.gradle` file, it is still configured correctly via `build.gradle`.  
+> You do not need to install Gradle manually, as the project includes the Gradle Wrapper (`gradlew`).
+- Although this project does not include a `settings.gradle` file, it is still configured correctly via `build.gradle`.  
 
 > [!NOTE]  
 > To download the project-specific dependencies and compile the code, navigate to the project directory in your terminal and run:  
