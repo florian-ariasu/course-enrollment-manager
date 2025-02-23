@@ -72,8 +72,8 @@ This project uses **Gradle** for dependency management and build automation.
 > [!NOTE]  
 > To download the project-specific dependencies and compile the code, navigate to the project directory in your terminal and run:  
  ```bash
- gradle build
- ```
+ ./gradlew build  # (Windows users can use gradlew.bat)
+```
 
 > [!TIP]  
 > ##### Gradle Integration with IntelliJ IDEA
