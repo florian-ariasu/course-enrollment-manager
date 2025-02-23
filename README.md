@@ -74,7 +74,6 @@ This project uses **Gradle** for dependency management and build automation.
  ```bash
  gradle build
  ```
-- Please ensure that Gradle is installed globally on your system before proceeding.
 
 > [!TIP]  
 > ##### Gradle Integration with IntelliJ IDEA
